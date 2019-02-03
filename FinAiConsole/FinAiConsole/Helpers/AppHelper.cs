@@ -4,7 +4,7 @@ namespace FinAiConsole.Helpers
 {
     public static class AppHelper
     {
-        public static readonly int LoadingMinuts = 1;
+        public static readonly int LoadingMinuts = 10;
         public static readonly bool HasDisplayHeaders = true;
         public static readonly bool OnlyLowcaseLetter = false;
         public static readonly int HeaderAmount = 20;
